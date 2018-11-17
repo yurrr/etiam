@@ -8,7 +8,7 @@ Por enquanto, temos apenas:
 * HTML5Boilerplate
 ## Instruções de Instalação e Setup
 ```
-1. npm run install
+1. npm install
 2. npm install -g nodemon
 3. nodemon app.js
 4. localhost:3000 no browser. (certifique-se que sua porta 3000 está aberta)
